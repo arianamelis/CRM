@@ -2355,7 +2355,7 @@ ul {
   content: "";
   width: 100%;
   height: 100%;
-  background-color: #171c3a;
+  background-color: #022222;
   z-index: -1;
   opacity: 0.8;
   border-radius: 0% 0% 50% 50% / 0% 0% 7% 7%;
@@ -2614,14 +2614,16 @@ ul {
 
 /* line 27, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_about.scss */
 .about_part .about_text:after {
-  position: absolute;
+
   left: -200px;
   bottom: -111px;
   width: 100%;
   height: 100%;
-  background-image: url(../img/about_overlay_2.png);
+  background-color: #022222;
+background-image: url("img/carbon-fibre.png");
+position: relative;
   background-size: cover;
-  background-position: center;
+
   content: "";
   z-index: -1;
 }
