@@ -1,10 +1,10 @@
 .subscribe_area{
     position: relative;
     z-index: 9;
-    
+    background-color: #022222;
     .subscribe_iner{
         padding: 33px 70px 51px;
-        background-color: $btn_bg;
+        background-color: #022222;
         position: relative;
         z-index: 1;
         @media #{$small_mobile}{
@@ -27,7 +27,7 @@
             left: 0;
             width: 100%;
             height: 100%;
-            background-image: url(../img/subscribe_overlay.png);
+            background-color: #022222;
             z-index: -1;
         }
         h2{
@@ -71,7 +71,7 @@
             }
             input{
                 height: 60px;
-                background-color: $white_color;
+                background-color: #022222;
                 border: 0px solid transparent;
                 border-radius: 50px;
                 padding-left: 27px;
