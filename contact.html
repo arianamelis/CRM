@@ -23,6 +23,7 @@
         <link rel="stylesheet" href="css/slick.css">
         <!-- style CSS -->
         <link rel="stylesheet" href="css/style.css">
+        <meta name="viewport" content="initial-scale=1.0">
     </head>
     
     <body>
@@ -129,14 +130,9 @@
     <section class="contact-section">
         <div class="container">
             <div class="d-none d-sm-block mb-5 pb-4">
-                <div id="map" style="height: 480px;"></div>
+                <div id="map" style="height: 380px;"></div>
                 <script>
-                    function initMap() {
-                        var uluru = {
-                            lat: 40.741450,
-                            lng: -73.864520
-                        };
-                        var grayStyles = [{
+                     var grayStyles = [{
                                 featureType: "all",
                                 stylers: [{
                                         saturation: -90
@@ -149,24 +145,23 @@
                             {
                                 elementType: 'labels.text.fill',
                                 stylers: [{
-                                    color: '#ccdee9'
+                                    color: '#333848'
                                 }]
                             }
-                        ];
-                        var map = new google.maps.Map(document.getElementById('map'), {
-                            center: {
-                                lat: 40.741450,
-                            lng: -73.864520
-                            },
-                            zoom: 9,
-                            styles: grayStyles,
-                            scrollwheel: false
-                        });
-                    }
+                        ]
+                        function initMap() {
+  // The location of Uluru
+  var uluru = {lat: 40.741450, lng: -73.864520};
+  // The map, centered at Uluru
+  var map = new google.maps.Map(
+      document.getElementById('map'), {zoom: 12, center: uluru});
+  // The marker, positioned at Uluru
+  var marker = new google.maps.Marker({position: uluru, map: map});
+}
                 </script>
-                <script
-                    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCm1NBjb4VvA8a52w81hc3zO5BKhxrciIY&callback=initMap">
-                </script>
+ <script async defer
+ src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCm1NBjb4VvA8a52w81hc3zO5BKhxrciIY&callback=initMap">
+ </script>
 
             </div>
 
