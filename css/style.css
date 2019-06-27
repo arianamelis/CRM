@@ -1570,7 +1570,7 @@ ul {
   margin-right: 0;
 }
 
-/*============ Start Blog Single Styles  =============*/
+/*============ Start Certificates Styles  =============*/
 /* line 1049, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_blog.scss */
 .single-post-area .blog_details {
   box-shadow: none;
@@ -2062,7 +2062,7 @@ ul {
   color: #777;
 }
 
-/*============ End Blog Single Styles  =============*/
+/*============ End Certificates Styles  =============*/
 /* line 4, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_single_blog.scss */
 .single_blog_post .desc a {
   font-size: 16px;
@@ -3315,9 +3315,9 @@ ul {
 
 /* line 35, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_faq_part.scss */
 .faq_part .faq_img {
-  background-image: url(../img/faq.png);
-  width: 100%;
-  height: 720px;
+  background-image: url(../img/truck.png);
+  width: 60%;
+  height: 60%;
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -5749,19 +5749,19 @@ input:focus {
   }
 }
 
-/* line 75, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 75, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .sample-text-area {
   background: #fff;
   padding: 100px 0 70px 0;
 }
 
-/* line 80, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 80, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .text-heading {
   margin-bottom: 30px;
   font-size: 24px;
 }
 
-/* line 85, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 85, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 b,
 sup,
 sub,
@@ -5770,42 +5770,42 @@ del {
   color: #fe5c24;
 }
 
-/* line 93, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 93, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 h1 {
   font-size: 36px;
 }
 
-/* line 97, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 97, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 h2 {
   font-size: 30px;
 }
 
-/* line 101, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 101, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 h3 {
   font-size: 24px;
 }
 
-/* line 105, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 105, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 h4 {
   font-size: 18px;
 }
 
-/* line 109, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 109, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 h5 {
   font-size: 16px;
 }
 
-/* line 113, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 113, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 h6 {
   font-size: 14px;
 }
 
-/* line 117, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 117, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 h1, h2, h3, h4, h5, h6 {
   line-height: 1.2em;
 }
 
-/* line 127, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 127, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .typography h1,
 .typography h2,
 .typography h3,
@@ -5815,29 +5815,29 @@ h1, h2, h3, h4, h5, h6 {
   color: #828bb2;
 }
 
-/* line 137, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 137, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .button-area {
   background: #fff;
 }
 
-/* line 138, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 138, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .button-area .border-top-generic {
   padding: 70px 15px;
   border-top: 1px dotted #eee;
 }
 
-/* line 146, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 146, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .button-group-area .genric-btn {
   margin-right: 10px;
   margin-top: 10px;
 }
 
-/* line 149, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 149, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .button-group-area .genric-btn:last-child {
   margin-right: 0;
 }
 
-/* line 155, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 155, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .genric-btn {
   display: inline-block;
   outline: none;
@@ -5854,43 +5854,43 @@ h1, h2, h3, h4, h5, h6 {
   transition: all 0.3s ease 0s;
 }
 
-/* line 166, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 166, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .genric-btn:focus {
   outline: none;
 }
 
-/* line 169, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 169, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .genric-btn.e-large {
   padding: 0 40px;
   line-height: 50px;
 }
 
-/* line 173, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 173, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .genric-btn.large {
   line-height: 45px;
 }
 
-/* line 176, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 176, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .genric-btn.medium {
   line-height: 30px;
 }
 
-/* line 179, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 179, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .genric-btn.small {
   line-height: 25px;
 }
 
-/* line 182, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 182, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .genric-btn.radius {
   border-radius: 3px;
 }
 
-/* line 185, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 185, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .genric-btn.circle {
   border-radius: 20px;
 }
 
-/* line 188, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 188, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .genric-btn.arrow {
   display: -webkit-inline-box;
   display: -ms-inline-flexbox;
@@ -5900,178 +5900,178 @@ h1, h2, h3, h4, h5, h6 {
   align-items: center;
 }
 
-/* line 195, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 195, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .genric-btn.arrow span {
   margin-left: 10px;
 }
 
-/* line 199, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 199, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .genric-btn.default {
   color: #415094;
   background: #f9f9ff;
   border: 1px solid transparent;
 }
 
-/* line 203, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 203, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .genric-btn.default:hover {
   border: 1px solid #f9f9ff;
   background: #fff;
 }
 
-/* line 208, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 208, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .genric-btn.default-border {
   border: 1px solid #f9f9ff;
   background: #fff;
 }
 
-/* line 211, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 211, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .genric-btn.default-border:hover {
   color: #415094;
   background: #f9f9ff;
   border: 1px solid transparent;
 }
 
-/* line 217, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 217, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .genric-btn.primary {
   color: #fff;
   background: #fe5c24;
   border: 1px solid transparent;
 }
 
-/* line 221, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 221, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .genric-btn.primary:hover {
   color: #fe5c24;
   border: 1px solid #fe5c24;
   background: #fff;
 }
 
-/* line 227, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 227, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .genric-btn.primary-border {
   color: #fe5c24;
   border: 1px solid #fe5c24;
   background: #fff;
 }
 
-/* line 231, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 231, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .genric-btn.primary-border:hover {
   color: #fff;
   background: #fe5c24;
   border: 1px solid transparent;
 }
 
-/* line 237, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 237, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .genric-btn.success {
   color: #fff;
   background: #4cd3e3;
   border: 1px solid transparent;
 }
 
-/* line 241, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 241, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .genric-btn.success:hover {
   color: #4cd3e3;
   border: 1px solid #4cd3e3;
   background: #fff;
 }
 
-/* line 247, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 247, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .genric-btn.success-border {
   color: #4cd3e3;
   border: 1px solid #4cd3e3;
   background: #fff;
 }
 
-/* line 251, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 251, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .genric-btn.success-border:hover {
   color: #fff;
   background: #4cd3e3;
   border: 1px solid transparent;
 }
 
-/* line 257, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 257, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .genric-btn.info {
   color: #fff;
   background: #38a4ff;
   border: 1px solid transparent;
 }
 
-/* line 261, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 261, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .genric-btn.info:hover {
   color: #38a4ff;
   border: 1px solid #38a4ff;
   background: #fff;
 }
 
-/* line 267, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 267, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .genric-btn.info-border {
   color: #38a4ff;
   border: 1px solid #38a4ff;
   background: #fff;
 }
 
-/* line 271, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 271, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .genric-btn.info-border:hover {
   color: #fff;
   background: #38a4ff;
   border: 1px solid transparent;
 }
 
-/* line 277, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 277, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .genric-btn.warning {
   color: #fff;
   background: #f4e700;
   border: 1px solid transparent;
 }
 
-/* line 281, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 281, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .genric-btn.warning:hover {
   color: #f4e700;
   border: 1px solid #f4e700;
   background: #fff;
 }
 
-/* line 287, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 287, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .genric-btn.warning-border {
   color: #f4e700;
   border: 1px solid #f4e700;
   background: #fff;
 }
 
-/* line 291, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 291, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .genric-btn.warning-border:hover {
   color: #fff;
   background: #f4e700;
   border: 1px solid transparent;
 }
 
-/* line 297, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 297, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .genric-btn.danger {
   color: #fff;
   background: #f44a40;
   border: 1px solid transparent;
 }
 
-/* line 301, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 301, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .genric-btn.danger:hover {
   color: #f44a40;
   border: 1px solid #f44a40;
   background: #fff;
 }
 
-/* line 307, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 307, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .genric-btn.danger-border {
   color: #f44a40;
   border: 1px solid #f44a40;
   background: #fff;
 }
 
-/* line 311, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 311, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .genric-btn.danger-border:hover {
   color: #fff;
   background: #f44a40;
   border: 1px solid transparent;
 }
 
-/* line 317, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 317, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .genric-btn.link {
   color: #415094;
   background: #f9f9ff;
@@ -6079,14 +6079,14 @@ h1, h2, h3, h4, h5, h6 {
   border: 1px solid transparent;
 }
 
-/* line 322, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 322, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .genric-btn.link:hover {
   color: #415094;
   border: 1px solid #f9f9ff;
   background: #fff;
 }
 
-/* line 328, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 328, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .genric-btn.link-border {
   color: #415094;
   border: 1px solid #f9f9ff;
@@ -6094,14 +6094,14 @@ h1, h2, h3, h4, h5, h6 {
   text-decoration: underline;
 }
 
-/* line 333, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 333, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .genric-btn.link-border:hover {
   color: #415094;
   background: #f9f9ff;
   border: 1px solid transparent;
 }
 
-/* line 339, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 339, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .genric-btn.disable {
   color: #222222, 0.3;
   background: #f9f9ff;
@@ -6109,53 +6109,53 @@ h1, h2, h3, h4, h5, h6 {
   cursor: not-allowed;
 }
 
-/* line 347, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 347, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .generic-blockquote {
   padding: 30px 50px 30px 30px;
   background: #f9f9ff;
   border-left: 2px solid #fe5c24;
 }
 
-/* line 353, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 353, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .progress-table-wrap {
   overflow-x: scroll;
 }
 
-/* line 357, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 357, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .progress-table {
   background: #f9f9ff;
   padding: 15px 0px 30px 0px;
   min-width: 800px;
 }
 
-/* line 361, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 361, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .progress-table .serial {
   width: 11.83%;
   padding-left: 30px;
 }
 
-/* line 365, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 365, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .progress-table .country {
   width: 28.07%;
 }
 
-/* line 368, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 368, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .progress-table .visit {
   width: 19.74%;
 }
 
-/* line 371, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 371, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .progress-table .percentage {
   width: 40.36%;
   padding-right: 50px;
 }
 
-/* line 375, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 375, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .progress-table .table-head {
   display: flex;
 }
 
-/* line 377, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 377, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .progress-table .table-head .serial,
 .progress-table .table-head .country,
 .progress-table .table-head .visit,
@@ -6166,14 +6166,14 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 500;
 }
 
-/* line 387, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 387, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .progress-table .table-row {
   padding: 15px 0;
   border-top: 1px solid #edf3fd;
   display: flex;
 }
 
-/* line 391, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 391, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .progress-table .table-row .serial,
 .progress-table .table-row .country,
 .progress-table .table-row .visit,
@@ -6182,65 +6182,65 @@ h1, h2, h3, h4, h5, h6 {
   align-items: center;
 }
 
-/* line 399, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 399, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .progress-table .table-row .country img {
   margin-right: 15px;
 }
 
-/* line 404, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 404, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .progress-table .table-row .percentage .progress {
   width: 80%;
   border-radius: 0px;
   background: transparent;
 }
 
-/* line 408, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 408, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .progress-table .table-row .percentage .progress .progress-bar {
   height: 5px;
   line-height: 5px;
 }
 
-/* line 411, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 411, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .progress-table .table-row .percentage .progress .progress-bar.color-1 {
   background-color: #6382e6;
 }
 
-/* line 414, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 414, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .progress-table .table-row .percentage .progress .progress-bar.color-2 {
   background-color: #e66686;
 }
 
-/* line 417, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 417, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .progress-table .table-row .percentage .progress .progress-bar.color-3 {
   background-color: #f09359;
 }
 
-/* line 420, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 420, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .progress-table .table-row .percentage .progress .progress-bar.color-4 {
   background-color: #73fbaf;
 }
 
-/* line 423, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 423, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .progress-table .table-row .percentage .progress .progress-bar.color-5 {
   background-color: #73fbaf;
 }
 
-/* line 426, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 426, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .progress-table .table-row .percentage .progress .progress-bar.color-6 {
   background-color: #6382e6;
 }
 
-/* line 429, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 429, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .progress-table .table-row .percentage .progress .progress-bar.color-7 {
   background-color: #a367e7;
 }
 
-/* line 432, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 432, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .progress-table .table-row .percentage .progress .progress-bar.color-8 {
   background-color: #e66686;
 }
 
-/* line 441, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 441, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .single-gallery-image {
   margin-top: 30px;
   background-repeat: no-repeat !important;
@@ -6249,20 +6249,20 @@ h1, h2, h3, h4, h5, h6 {
   height: 200px;
 }
 
-/* line 449, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 449, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .list-style {
   width: 14px;
   height: 14px;
 }
 
-/* line 455, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 455, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .unordered-list li {
   position: relative;
   padding-left: 30px;
   line-height: 1.82em !important;
 }
 
-/* line 459, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 459, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .unordered-list li:before {
   content: "";
   position: absolute;
@@ -6275,12 +6275,12 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 50%;
 }
 
-/* line 473, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 473, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .ordered-list {
   margin-left: 30px;
 }
 
-/* line 475, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 475, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .ordered-list li {
   list-style-type: decimal-leading-zero;
   color: #fe5c24;
@@ -6288,13 +6288,13 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.82em !important;
 }
 
-/* line 480, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 480, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .ordered-list li span {
   font-weight: 300;
   color: #828bb2;
 }
 
-/* line 488, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 488, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .ordered-list-alpha li {
   margin-left: 30px;
   list-style-type: lower-alpha;
@@ -6303,13 +6303,13 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.82em !important;
 }
 
-/* line 494, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 494, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .ordered-list-alpha li span {
   font-weight: 300;
   color: #828bb2;
 }
 
-/* line 502, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 502, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .ordered-list-roman li {
   margin-left: 30px;
   list-style-type: lower-roman;
@@ -6318,13 +6318,13 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.82em !important;
 }
 
-/* line 508, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 508, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .ordered-list-roman li span {
   font-weight: 300;
   color: #828bb2;
 }
 
-/* line 515, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 515, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .single-input {
   display: block;
   width: 100%;
@@ -6335,17 +6335,17 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0 20px;
 }
 
-/* line 523, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 523, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .single-input:focus {
   outline: none;
 }
 
-/* line 528, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 528, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .input-group-icon {
   position: relative;
 }
 
-/* line 530, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 530, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .input-group-icon .icon {
   position: absolute;
   left: 20px;
@@ -6354,17 +6354,17 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 3;
 }
 
-/* line 535, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 535, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .input-group-icon .icon i {
   color: #797979;
 }
 
-/* line 540, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 540, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .input-group-icon .single-input {
   padding-left: 45px;
 }
 
-/* line 545, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 545, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .single-textarea {
   display: block;
   width: 100%;
@@ -6377,12 +6377,12 @@ h1, h2, h3, h4, h5, h6 {
   resize: none;
 }
 
-/* line 555, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 555, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .single-textarea:focus {
   outline: none;
 }
 
-/* line 560, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 560, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .single-input-primary {
   display: block;
   width: 100%;
@@ -6393,13 +6393,13 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0 20px;
 }
 
-/* line 568, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 568, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .single-input-primary:focus {
   outline: none;
   border: 1px solid #fe5c24;
 }
 
-/* line 574, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 574, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .single-input-accent {
   display: block;
   width: 100%;
@@ -6410,13 +6410,13 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0 20px;
 }
 
-/* line 582, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 582, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .single-input-accent:focus {
   outline: none;
   border: 1px solid #eb6b55;
 }
 
-/* line 588, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 588, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .single-input-secondary {
   display: block;
   width: 100%;
@@ -6427,13 +6427,13 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0 20px;
 }
 
-/* line 596, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 596, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .single-input-secondary:focus {
   outline: none;
   border: 1px solid #f09359;
 }
 
-/* line 602, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 602, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .default-switch {
   width: 35px;
   height: 17px;
@@ -6443,7 +6443,7 @@ h1, h2, h3, h4, h5, h6 {
   cursor: pointer;
 }
 
-/* line 609, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 609, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .default-switch input {
   position: absolute;
   left: 0;
@@ -6456,7 +6456,7 @@ h1, h2, h3, h4, h5, h6 {
   cursor: pointer;
 }
 
-/* line 619, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 619, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .default-switch input + label {
   position: absolute;
   top: 1px;
@@ -6473,12 +6473,12 @@ h1, h2, h3, h4, h5, h6 {
   cursor: pointer;
 }
 
-/* line 632, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 632, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .default-switch input:checked + label {
   left: 19px;
 }
 
-/* line 639, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 639, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .primary-switch {
   width: 35px;
   height: 17px;
@@ -6488,7 +6488,7 @@ h1, h2, h3, h4, h5, h6 {
   cursor: pointer;
 }
 
-/* line 646, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 646, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .primary-switch input {
   position: absolute;
   left: 0;
@@ -6500,7 +6500,7 @@ h1, h2, h3, h4, h5, h6 {
   opacity: 0;
 }
 
-/* line 655, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 655, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .primary-switch input + label {
   position: absolute;
   left: 0;
@@ -6511,7 +6511,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 100%;
 }
 
-/* line 663, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 663, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .primary-switch input + label:before {
   content: "";
   position: absolute;
@@ -6530,7 +6530,7 @@ h1, h2, h3, h4, h5, h6 {
   transition: all 0.2s;
 }
 
-/* line 677, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 677, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .primary-switch input + label:after {
   content: "";
   position: absolute;
@@ -6548,17 +6548,17 @@ h1, h2, h3, h4, h5, h6 {
   cursor: pointer;
 }
 
-/* line 693, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 693, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .primary-switch input:checked + label:after {
   left: 19px;
 }
 
-/* line 696, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 696, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .primary-switch input:checked + label:before {
   background: #fe5c24;
 }
 
-/* line 704, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 704, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .confirm-switch {
   width: 35px;
   height: 17px;
@@ -6568,7 +6568,7 @@ h1, h2, h3, h4, h5, h6 {
   cursor: pointer;
 }
 
-/* line 711, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 711, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .confirm-switch input {
   position: absolute;
   left: 0;
@@ -6580,7 +6580,7 @@ h1, h2, h3, h4, h5, h6 {
   opacity: 0;
 }
 
-/* line 720, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 720, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .confirm-switch input + label {
   position: absolute;
   left: 0;
@@ -6591,7 +6591,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 100%;
 }
 
-/* line 728, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 728, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .confirm-switch input + label:before {
   content: "";
   position: absolute;
@@ -6610,7 +6610,7 @@ h1, h2, h3, h4, h5, h6 {
   cursor: pointer;
 }
 
-/* line 742, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 742, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .confirm-switch input + label:after {
   content: "";
   position: absolute;
@@ -6628,17 +6628,17 @@ h1, h2, h3, h4, h5, h6 {
   cursor: pointer;
 }
 
-/* line 758, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 758, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .confirm-switch input:checked + label:after {
   left: 19px;
 }
 
-/* line 761, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 761, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .confirm-switch input:checked + label:before {
   background: #4cd3e3;
 }
 
-/* line 769, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 769, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .primary-checkbox {
   width: 16px;
   height: 16px;
@@ -6648,7 +6648,7 @@ h1, h2, h3, h4, h5, h6 {
   cursor: pointer;
 }
 
-/* line 776, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 776, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .primary-checkbox input {
   position: absolute;
   left: 0;
@@ -6660,7 +6660,7 @@ h1, h2, h3, h4, h5, h6 {
   opacity: 0;
 }
 
-/* line 785, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 785, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .primary-checkbox input + label {
   position: absolute;
   left: 0;
@@ -6674,13 +6674,13 @@ h1, h2, h3, h4, h5, h6 {
   border: 1px solid #f1f1f1;
 }
 
-/* line 798, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 798, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .primary-checkbox input:checked + label {
-  background: url(../img/elements/primary-check.png) no-repeat center center/cover;
+  background: url(../img/Expansion/primary-check.png) no-repeat center center/cover;
   border: none;
 }
 
-/* line 806, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 806, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .confirm-checkbox {
   width: 16px;
   height: 16px;
@@ -6690,7 +6690,7 @@ h1, h2, h3, h4, h5, h6 {
   cursor: pointer;
 }
 
-/* line 813, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 813, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .confirm-checkbox input {
   position: absolute;
   left: 0;
@@ -6702,7 +6702,7 @@ h1, h2, h3, h4, h5, h6 {
   opacity: 0;
 }
 
-/* line 822, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 822, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .confirm-checkbox input + label {
   position: absolute;
   left: 0;
@@ -6716,13 +6716,13 @@ h1, h2, h3, h4, h5, h6 {
   border: 1px solid #f1f1f1;
 }
 
-/* line 835, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 835, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .confirm-checkbox input:checked + label {
-  background: url(../img/elements/success-check.png) no-repeat center center/cover;
+  background: url(../img/Expansion/success-check.png) no-repeat center center/cover;
   border: none;
 }
 
-/* line 843, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 843, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .disabled-checkbox {
   width: 16px;
   height: 16px;
@@ -6732,7 +6732,7 @@ h1, h2, h3, h4, h5, h6 {
   cursor: pointer;
 }
 
-/* line 850, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 850, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .disabled-checkbox input {
   position: absolute;
   left: 0;
@@ -6744,7 +6744,7 @@ h1, h2, h3, h4, h5, h6 {
   opacity: 0;
 }
 
-/* line 859, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 859, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .disabled-checkbox input + label {
   position: absolute;
   left: 0;
@@ -6758,19 +6758,19 @@ h1, h2, h3, h4, h5, h6 {
   border: 1px solid #f1f1f1;
 }
 
-/* line 871, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 871, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .disabled-checkbox input:disabled {
   cursor: not-allowed;
   z-index: 3;
 }
 
-/* line 876, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 876, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .disabled-checkbox input:checked + label {
-  background: url(../img/elements/disabled-check.png) no-repeat center center/cover;
+  background: url(../img/Expansion/disabled-check.png) no-repeat center center/cover;
   border: none;
 }
 
-/* line 884, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 884, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .primary-radio {
   width: 16px;
   height: 16px;
@@ -6780,7 +6780,7 @@ h1, h2, h3, h4, h5, h6 {
   cursor: pointer;
 }
 
-/* line 891, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 891, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .primary-radio input {
   position: absolute;
   left: 0;
@@ -6792,7 +6792,7 @@ h1, h2, h3, h4, h5, h6 {
   opacity: 0;
 }
 
-/* line 900, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 900, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .primary-radio input + label {
   position: absolute;
   left: 0;
@@ -6806,13 +6806,13 @@ h1, h2, h3, h4, h5, h6 {
   border: 1px solid #f1f1f1;
 }
 
-/* line 913, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 913, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .primary-radio input:checked + label {
-  background: url(../img/elements/primary-radio.png) no-repeat center center/cover;
+  background: url(../img/Expansion/primary-radio.png) no-repeat center center/cover;
   border: none;
 }
 
-/* line 921, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 921, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .confirm-radio {
   width: 16px;
   height: 16px;
@@ -6822,7 +6822,7 @@ h1, h2, h3, h4, h5, h6 {
   cursor: pointer;
 }
 
-/* line 928, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 928, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .confirm-radio input {
   position: absolute;
   left: 0;
@@ -6834,7 +6834,7 @@ h1, h2, h3, h4, h5, h6 {
   opacity: 0;
 }
 
-/* line 937, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 937, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .confirm-radio input + label {
   position: absolute;
   left: 0;
@@ -6848,13 +6848,13 @@ h1, h2, h3, h4, h5, h6 {
   border: 1px solid #f1f1f1;
 }
 
-/* line 950, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 950, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .confirm-radio input:checked + label {
-  background: url(../img/elements/success-radio.png) no-repeat center center/cover;
+  background: url(../img/Expansion/success-radio.png) no-repeat center center/cover;
   border: none;
 }
 
-/* line 958, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 958, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .disabled-radio {
   width: 16px;
   height: 16px;
@@ -6864,7 +6864,7 @@ h1, h2, h3, h4, h5, h6 {
   cursor: pointer;
 }
 
-/* line 965, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 965, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .disabled-radio input {
   position: absolute;
   left: 0;
@@ -6876,7 +6876,7 @@ h1, h2, h3, h4, h5, h6 {
   opacity: 0;
 }
 
-/* line 974, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 974, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .disabled-radio input + label {
   position: absolute;
   left: 0;
@@ -6890,24 +6890,24 @@ h1, h2, h3, h4, h5, h6 {
   border: 1px solid #f1f1f1;
 }
 
-/* line 986, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 986, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .disabled-radio input:disabled {
   cursor: not-allowed;
   z-index: 3;
 }
 
-/* line 991, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 991, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .disabled-radio input:checked + label {
-  background: url(../img/elements/disabled-radio.png) no-repeat center center/cover;
+  background: url(../img/Expansion/disabled-radio.png) no-repeat center center/cover;
   border: none;
 }
 
-/* line 999, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 999, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .default-select {
   height: 40px;
 }
 
-/* line 1001, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 1001, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .default-select .nice-select {
   border: none;
   border-radius: 0px;
@@ -6917,7 +6917,7 @@ h1, h2, h3, h4, h5, h6 {
   padding-right: 40px;
 }
 
-/* line 1008, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 1008, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .default-select .nice-select .list {
   margin-top: 0;
   border: none;
@@ -6927,7 +6927,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 10px 0 10px 0px;
 }
 
-/* line 1015, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 1015, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .default-select .nice-select .list .option {
   font-weight: 300;
   -webkit-transition: all 0.3s ease 0s;
@@ -6940,36 +6940,36 @@ h1, h2, h3, h4, h5, h6 {
   padding-left: 20px;
 }
 
-/* line 1022, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 1022, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .default-select .nice-select .list .option.selected {
   color: #fe5c24;
   background: transparent;
 }
 
-/* line 1026, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 1026, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .default-select .nice-select .list .option:hover {
   color: #fe5c24;
   background: transparent;
 }
 
-/* line 1033, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 1033, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .default-select .current {
   margin-right: 50px;
   font-weight: 300;
 }
 
-/* line 1037, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 1037, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .default-select .nice-select::after {
   right: 20px;
 }
 
-/* line 1042, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 1042, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .form-select {
   height: 40px;
   width: 100%;
 }
 
-/* line 1045, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 1045, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .form-select .nice-select {
   border: none;
   border-radius: 0px;
@@ -6980,7 +6980,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 100%;
 }
 
-/* line 1053, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 1053, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .form-select .nice-select .list {
   margin-top: 0;
   border: none;
@@ -6990,7 +6990,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 10px 0 10px 0px;
 }
 
-/* line 1060, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 1060, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .form-select .nice-select .list .option {
   font-weight: 300;
   -webkit-transition: all 0.3s ease 0s;
@@ -7003,51 +7003,51 @@ h1, h2, h3, h4, h5, h6 {
   padding-left: 45px;
 }
 
-/* line 1067, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 1067, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .form-select .nice-select .list .option.selected {
   color: #fe5c24;
   background: transparent;
 }
 
-/* line 1071, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 1071, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .form-select .nice-select .list .option:hover {
   color: #fe5c24;
   background: transparent;
 }
 
-/* line 1078, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 1078, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .form-select .current {
   margin-right: 50px;
   font-weight: 300;
 }
 
-/* line 1082, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 1082, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .form-select .nice-select::after {
   right: 20px;
 }
 
-/* line 1086, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 1086, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .mt-10 {
   margin-top: 10px;
 }
 
-/* line 1089, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 1089, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .section-top-border {
   padding: 50px 0;
   border-top: 1px dotted #eee;
 }
 
-/* line 1093, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 1093, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .mb-30 {
   margin-bottom: 30px;
 }
 
-/* line 1096, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 1096, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .mt-30 {
   margin-top: 30px;
 }
 
-/* line 1099, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_elements.scss */
+/* line 1099, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_Expansion.scss */
 .switch-wrap {
   margin-bottom: 10px;
 }
