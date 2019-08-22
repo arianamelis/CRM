@@ -3296,7 +3296,9 @@ position: relative;
   height: 80%;
   top: 10%;
   right: 0;
-  background-image: url(../img/faq_bg.png);
+  color: #d71921;
+  background-color: #022222;
+  background-image: ("img/carbon-fibre.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -3317,7 +3319,7 @@ position: relative;
 
 /* line 35, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_faq_part.scss */
 .faq_part .faq_img {
-  background-image: url(../img/truck.png);
+  background-image: url(../pics/truck.jpeg);
   width: 60%;
   height: 60%;
   background-position: center;
@@ -3462,8 +3464,10 @@ position: relative;
 }
 
 /* line 130, ../../01 cl html template/New folder/May 2019/175  Supreme Industry/Supreme Industry Html/sass/_faq_part.scss */
-.faq_part .faq_content .accordion-header {
-  color: white;
+.faq_part .faq_content .accordion-header * {
+
+  color: #d71921;
+
   border-radius: 5px;
   padding: 25px 15px 25px 0;
   cursor: pointer;
